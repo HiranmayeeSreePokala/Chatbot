@@ -7,10 +7,10 @@ This repository contains the code for a user-friendly chatbot that utilizes HTML
 ## Tech Stack
 
 <div align="left">
-  <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/> 
-  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-  <img alt="OpenAI API" src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img alt="HTML5" src="img/html.png" height="70" width="70"/>
+  <img alt="CSS3" src="img/css.png" height="70" width="70"/> 
+  <img alt="JavaScript" src="img/js.png" height="70" width="70"/>
+  <img alt="OpenAI API" src="img/ai.png" height="70" width="70"/>
   
 </div>
 
